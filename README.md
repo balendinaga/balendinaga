@@ -10,3 +10,5 @@ I enjoy building practical Windows desktop utilities, cross-platform mobile apps
 - **Frontend & Mobile:** React, React Native, Expo, Tailwind CSS, WPF (XAML)
 - **Backend & Database:** .NET, Node.js, Supabase, PostgreSQL, REST APIs
 - **Tools & Media:** Git, GitHub Actions, Docker, FFmpeg, SkiaSharp, Linux
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balendinaga&layout=compact&theme=dark)
